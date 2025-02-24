@@ -1,6 +1,6 @@
 # Hi! I'm Gustavo Chemin 👋
 
-I'm a Computer Engineering student (4th semester - UTFPR).
+I'm a Computer Engineering student (5th semester - UTFPR).
 
 ## 🚀 Main Projects
 
