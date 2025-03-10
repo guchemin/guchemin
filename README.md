@@ -20,6 +20,9 @@ I'm a Computer Engineering student (5th semester - UTFPR).
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
 </p>
 
+## 📖 Currently Learning
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" /> </p>
+
 ## 🛠️ Tools
 - MATLAB
 - AutoCAD
